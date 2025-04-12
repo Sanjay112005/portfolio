@@ -2,7 +2,7 @@ import React from 'react'
 import './about.css'
 import {  CardHoverEffectDemo } from '../ui/CardHoverEffectDemo'
 import { HoverEffect } from '../ui/HoverEffect'
-import Footer from '../ui/footer'
+import Footer from '../ui/Footer'
 
 
 function About() {

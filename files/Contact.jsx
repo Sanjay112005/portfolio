@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import TextGenerateEffectDemo from "../src/components/ui/texts";
 import "./contact.css";
-import Footer from '../ui/footer';
+import Footer from '../ui/Footer';
 
 export default function ContactUs() {
   const [showForm, setShowForm] = useState(false);

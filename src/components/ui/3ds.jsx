@@ -3,7 +3,7 @@ import { CardBody, CardContainer, CardItem } from "./3d-card";
 import "./3d.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEye } from '@fortawesome/free-solid-svg-icons';
-import Footer from "../../../ui/footer";
+import Footer from "../../../ui/Footer";
 
 const projects = [
   {

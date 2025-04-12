@@ -45,7 +45,7 @@ function About() {
           </div>
       </div>
       <div className='imgs'>
-        <img src="https://raw.githubusercontent.com/Sanjay112005/portfolio/refs/heads/main/about.png" alt="" />
+        <img src="/images/about.png" alt="" />
       </div>
     </div>
 

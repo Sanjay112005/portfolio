@@ -334,15 +334,17 @@ html, body {
 @media (max-width: 767px) {
   .cardss {
     width: 95%;
-    padding: 10px;
+    padding: 5px;
     height: auto;
   }
 
   .reg {
     font-size: 30px;
     text-align: center;
+    margin-top: -50px;
   }
-
+   
+ 
   .edit {
     width: 120px;
     height: 60px;
@@ -385,11 +387,16 @@ html, body {
     font-size: 26px;
   }
 
+  
+
+
   .edit {
     width: 100px;
     height: 50px;
     font-size: 7px;
   }
+  
+ 
 
   .download-btn button {
     padding: 6px 14px;
@@ -407,12 +414,7 @@ html, body {
     font-size: 12px;
   }
 
-  .top,
-  .speaker,
-  .camera,
-  .int {
-    transform: scale(0.9);
-  }
+
 
   .round-button {
     width: 24px;

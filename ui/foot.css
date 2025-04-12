@@ -14,23 +14,12 @@
     margin-top: 120px;
 }
 
-.find1 h1{
-    font-size: 35px;
-    font-family: "Poppins", sans-serif;
-    text-align: center;
-    
-}
-.find1 p{
-    margin-top: 10px;
-    font-size: 20px;
-    
-    
-}
+
 .find2 a {
     text-decoration: none;  /* Remove underline */
     color: inherit; 
-    font-size: 28px;   
-    margin: 0 18px;
+    font-size: 25px;   
+    margin: 0 14px;
 }
 
 .find2 a:hover{
@@ -71,7 +60,7 @@
 @media (max-width: 768px) {
     .dot {
         /* background-color: #040e1ffe; */
-        padding-bottom: 8px;
+        padding-bottom: 40px;
         width: 100%;
         /* padding: 15px; */
         background-color: #040e1ffe; 
@@ -79,6 +68,6 @@
     }
 
     .find {
-        margin-top: 180px; 
+        margin-top: 90px; 
     }
 }

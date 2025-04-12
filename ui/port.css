@@ -1,0 +1,17 @@
+.intro-letter {
+    font-size: 16rem;
+    font-weight: 100;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .intro-letter {
+      font-size: 10vw;
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    .intro-letter {
+      font-size: 12vw;
+    }
+  }
+  

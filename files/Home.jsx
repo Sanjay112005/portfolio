@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import PortfolioIntro from "../ui/PortfolioIntro";
-import Footer from "../ui/footer";
+
 
 
 import "./home.css";
@@ -8,6 +8,8 @@ import "./home.css";
 
 
 import Button from "../ui/Button";
+import Footer from "../ui/Footer";
+
 
 function Home() {
   const [showHome, setShowHome] = useState(false);
@@ -55,7 +57,7 @@ function Home() {
             </div>
           </section></div>
 
-          <Footer/> 
+          <Footer />
         </>
       )}
     </div>
